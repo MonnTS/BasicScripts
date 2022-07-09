@@ -1,0 +1,1 @@
+﻿Copy-Item -Filter readme*.txt -Path "C:\Program Files" -Recurse -Destination C:\Users\Monn\Powershell\readme
